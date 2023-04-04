@@ -1,0 +1,18 @@
+.bottom-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.bottom-container h2 {
+  padding: 0 2rem;
+  color: black;
+}
+
+.bottom-container .stars-container {
+  padding-right: 5rem;
+}
+
+span {
+  padding: 0 1rem;
+}/*# sourceMappingURL=BottomSection.css.map */
